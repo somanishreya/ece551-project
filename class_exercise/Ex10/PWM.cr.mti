@@ -1,0 +1,16 @@
+D:/ece551/somani/Ex10/PWM11.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex10/PWM11.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SR_FF
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} D:/ece551/somani/Ex10/PWM_tb.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex10/PWM_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM_tb
+
+Top level modules:
+	PWM_tb
+
+} {} {}}

@@ -1,0 +1,23 @@
+D:/ece551/somani/Ex09/HW2_prob5.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex09/HW2_prob5.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module latch
+-- Compiling module D_FF_sync_rst
+-- Compiling module D_FF_async_rst_en
+-- Compiling module SR_FF
+-- Compiling module SR_FF_update
+
+Top level modules:
+	latch
+	D_FF_sync_rst
+	D_FF_async_rst_en
+	SR_FF
+	SR_FF_update
+
+} {} {}} D:/ece551/somani/Ex09/HW2_prob5_tb.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex09/HW2_prob5_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HW2_prob5_tb
+
+Top level modules:
+	HW2_prob5_tb
+
+} {} {}}

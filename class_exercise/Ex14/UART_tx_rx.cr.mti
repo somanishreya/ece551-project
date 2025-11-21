@@ -1,0 +1,22 @@
+D:/ece551/somani/Ex14/UART_tx.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex14/UART_tx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_tx
+
+Top level modules:
+	UART_tx
+
+} {} {}} D:/ece551/somani/Ex14/UART_rx.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex14/UART_rx.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_rx
+
+Top level modules:
+	UART_rx
+
+} {} {}} D:/ece551/somani/Ex14/UART_tx_rx_tb.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex14/UART_tx_rx_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UART_tx_rx_tb
+
+Top level modules:
+	UART_tx_rx_tb
+
+} {} {}}

@@ -1,0 +1,8 @@
+D:/ece551/Ex02/ring_oscillator.sv {1 {vlog -work work -sv -stats=none D:/ece551/Ex02/ring_oscillator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ring_oscillator
+
+Top level modules:
+	ring_oscillator
+
+} {} {}}

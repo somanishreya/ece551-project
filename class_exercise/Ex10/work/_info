@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/HW2
+vPWM
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1759170090
+!i10b 1
+!s100 ]AgIM=IDUFBAR:9nJn<]M0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7[N>3Jn]7J:OAeH]Z__D:1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/ece551/somani/Ex10
+Z5 w1759170083
+Z6 8D:/ece551/somani/Ex10/PWM11.sv
+Z7 FD:/ece551/somani/Ex10/PWM11.sv
+!i122 4
+L0 16 59
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1759170090.000000
+Z10 !s107 D:/ece551/somani/Ex10/PWM11.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex10/PWM11.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+n@p@w@m
+vPWM_tb
+R0
+!s110 1759171306
+!i10b 1
+!s100 V6BU6Xd0XS>CM`fnnGk?b1
+R2
+IZLU[8PG?U3<9DIdJD6Db^0
+R3
+S1
+R4
+w1759171297
+8D:/ece551/somani/Ex10/PWM_tb.sv
+FD:/ece551/somani/Ex10/PWM_tb.sv
+!i122 10
+L0 1 30
+R8
+r1
+!s85 0
+31
+!s108 1759171306.000000
+!s107 D:/ece551/somani/Ex10/PWM_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex10/PWM_tb.sv|
+!i113 1
+R12
+R13
+n@p@w@m_tb
+vSR_FF
+R0
+R1
+!i10b 1
+!s100 VA8:ZQQCGM;Vm;Q2[jT0L3
+R2
+IJS>YzIT04cf;M`0<U`D?63
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 4
+L0 1 13
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+n@s@r_@f@f

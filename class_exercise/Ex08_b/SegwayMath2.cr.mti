@@ -1,0 +1,16 @@
+D:/ece551/somani/Ex08_b/SegwayMath.sv {2 {vlog -work work -sv -stats=none D:/ece551/somani/Ex08_b/SegwayMath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SegwayMath
+** Warning: D:/ece551/somani/Ex08_b/SegwayMath.sv(38): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	SegwayMath
+
+} {} {}} D:/ece551/somani/Ex08_b/SegwayMath_tb2.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex08_b/SegwayMath_tb2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SegwayMath_tb
+
+Top level modules:
+	SegwayMath_tb
+
+} {} {}}

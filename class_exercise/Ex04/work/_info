@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex03
+vMSFF
+!s110 1757700615
+!i10b 1
+!s100 RdZ7ADEgTlFhC>^O^Io`41
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ik[JdRGghACg7HTzL?_3z53
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ece551/somani/Ex04
+w1757700610
+8D:/ece551/somani/Ex04/MSFF.v
+FD:/ece551/somani/Ex04/MSFF.v
+!i122 0
+L0 1 27
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1757700615.000000
+!s107 D:/ece551/somani/Ex04/MSFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ece551/somani/Ex04/MSFF.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@m@s@f@f
+vMSFF_tb
+!s110 1757702051
+!i10b 1
+!s100 ibHSC6AYle_N9Jd>D`;b70
+R0
+Ih>zg4<aW;9LcKFj]o9m`z3
+R1
+R2
+w1757702045
+8D:/ece551/somani/Ex04/MSFF_tb.v
+FD:/ece551/somani/Ex04/MSFF_tb.v
+!i122 9
+L0 1 79
+R3
+r1
+!s85 0
+31
+!s108 1757702051.000000
+!s107 D:/ece551/somani/Ex04/MSFF_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ece551/somani/Ex04/MSFF_tb.v|
+!i113 1
+R4
+R5
+n@m@s@f@f_tb

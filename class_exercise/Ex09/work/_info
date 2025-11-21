@@ -1,0 +1,166 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex08_09
+vD_FF_async_rst_en
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1759117848
+!i10b 1
+!s100 101Ne>mUUCkBX?=VYP0EB1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBZV=LA90Wo8UV7i^E[H3U3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/ece551/somani/Ex09
+Z5 w1759117842
+Z6 8D:/ece551/somani/Ex09/HW2_prob5.sv
+Z7 FD:/ece551/somani/Ex09/HW2_prob5.sv
+!i122 17
+L0 25 12
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1759117848.000000
+!s107 D:/ece551/somani/Ex09/HW2_prob5.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex09/HW2_prob5.sv|
+!i113 1
+Z11 o-work work -sv
+Z12 tCvgOpt 0
+n@d_@f@f_async_rst_en
+vD_FF_sync_rst
+R0
+R1
+!i10b 1
+!s100 o_S]IG2K4Dmd4@ROFfW?I1
+R2
+I5a3YZ=QM`7kO4WFl@dYzK3
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 17
+L0 13 11
+R8
+r1
+!s85 0
+31
+R9
+Z13 !s107 D:/ece551/somani/Ex09/HW2_prob5.sv|
+R10
+!i113 1
+R11
+R12
+n@d_@f@f_sync_rst
+vHW2_prob5_tb
+R0
+!s110 1758916845
+!i10b 1
+!s100 TMJz[`[FiGjhXcad]nL642
+R2
+IOfT>JkoHIfAJoHPR4oTM:0
+R3
+S1
+R4
+w1758915077
+8D:/ece551/somani/Ex09/HW2_prob5_tb.sv
+FD:/ece551/somani/Ex09/HW2_prob5_tb.sv
+!i122 14
+L0 1 36
+R8
+r1
+!s85 0
+31
+!s108 1758916845.000000
+!s107 D:/ece551/somani/Ex09/HW2_prob5_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex09/HW2_prob5_tb.sv|
+!i113 1
+R11
+R12
+n@h@w2_prob5_tb
+vlatch
+R0
+R1
+!i10b 1
+!s100 4zPd6l<3Hbae1;[ejjV9]3
+R2
+IE2:47TVMQ67Z;en2cGB6m1
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 17
+L0 1 11
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+vSR_FF
+R0
+R1
+!i10b 1
+!s100 20oSg1nM99WiIk;H>K5kj2
+R2
+IiH;;QlM^@ZUm8]NgG7RX21
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 17
+L0 39 13
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@s@r_@f@f
+vSR_FF_update
+R0
+R1
+!i10b 1
+!s100 T_jTQHWSB59@X0LX[z;LK1
+R2
+IZ0FMJ0=i@KLk<R8k=;TC63
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 17
+L0 59 13
+R8
+r1
+!s85 0
+31
+R9
+R13
+R10
+!i113 1
+R11
+R12
+n@s@r_@f@f_update

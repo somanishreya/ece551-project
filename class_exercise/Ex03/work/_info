@@ -1,0 +1,84 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vdff
+Z0 !s110 1757525647
+!i10b 1
+!s100 dM>GE3J[R01dhgBNF8kn43
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGd7NZVD8bh@E6PQ7FL4eR0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/ece551/somani/Ex03
+w1757477319
+8D:/ece551/somani/Ex03/dff.v
+FD:/ece551/somani/Ex03/dff.v
+!i122 0
+L0 1 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1757525647.000000
+!s107 D:/ece551/somani/Ex03/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ece551/somani/Ex03/dff.v|
+!i113 1
+o-work work
+Z6 tCvgOpt 0
+vsynch_detect
+Z7 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1757525970
+!i10b 1
+!s100 dk[ILL8@JfX_V=Dg_2Fm93
+R1
+IPN8Neh35@kWWG9C9I9WIR0
+R2
+S1
+R3
+w1757525952
+8D:/ece551/somani/Ex03/synch_detect.sv
+FD:/ece551/somani/Ex03/synch_detect.sv
+!i122 3
+L0 5 40
+R4
+r1
+!s85 0
+31
+!s108 1757525970.000000
+!s107 D:/ece551/somani/Ex03/synch_detect.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex03/synch_detect.sv|
+!i113 1
+Z8 o-work work -sv
+R6
+vsynch_detect_tb
+R7
+R0
+!i10b 1
+!s100 k96Y=]gKCMkPNW^:<i<`C2
+R1
+I2k`NmJ]TQfafYG;eiz>>@3
+R2
+S1
+R3
+w1757477316
+8D:/ece551/somani/Ex03/synch_detect_tb.sv
+FD:/ece551/somani/Ex03/synch_detect_tb.sv
+!i122 2
+L0 1 59
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/ece551/somani/Ex03/synch_detect_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex03/synch_detect_tb.sv|
+!i113 1
+R8
+R6

@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex13
+vUART_rx
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1760145460
+!i10b 1
+!s100 iLXiZld8ncb_f`3BTIenf3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9I5WRl^:8eAEY0cBW=FhG0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/ece551/somani/Ex14
+w1760145438
+8D:/ece551/somani/Ex14/UART_rx.sv
+FD:/ece551/somani/Ex14/UART_rx.sv
+!i122 9
+L0 1 150
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1760145460.000000
+!s107 D:/ece551/somani/Ex14/UART_rx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex14/UART_rx.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@u@a@r@t_rx
+vUART_tx
+R0
+R1
+!i10b 1
+!s100 1nEMzLAVGGFfWl[Vji<zF0
+R2
+IEz9;TmW2]3k2H[_nTA0?l0
+R3
+S1
+R4
+w1760125678
+8D:/ece551/somani/Ex14/UART_tx.sv
+FD:/ece551/somani/Ex14/UART_tx.sv
+!i122 10
+L0 1 119
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ece551/somani/Ex14/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex14/UART_tx.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_tx
+vUART_tx_rx_tb
+R0
+R1
+!i10b 1
+!s100 m<cLg]f4WGGjE^7fgiYH<1
+R2
+I6K_KQnWRH=X0Hl9_d9oW91
+R3
+S1
+R4
+w1760145451
+8D:/ece551/somani/Ex14/UART_tx_rx_tb.sv
+FD:/ece551/somani/Ex14/UART_tx_rx_tb.sv
+!i122 11
+L0 1 114
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ece551/somani/Ex14/UART_tx_rx_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex14/UART_tx_rx_tb.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_tx_rx_tb

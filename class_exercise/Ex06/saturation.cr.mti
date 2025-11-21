@@ -1,0 +1,15 @@
+D:/ece551/somani/Ex06/saturate.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex06/saturate.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module saturate
+
+Top level modules:
+	saturate
+
+} {} {}} D:/ece551/somani/Ex06/saturate_tb.sv {1 {vlog -work work -sv -stats=none {D:\ece551\somani\Ex06\saturate_tb.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module saturate_tb
+
+Top level modules:
+	saturate_tb
+
+} {} {}}

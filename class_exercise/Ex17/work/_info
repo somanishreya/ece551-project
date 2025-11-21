@@ -1,0 +1,113 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex16
+vbalance_cntrl
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1761768241
+!i10b 1
+!s100 ^A@YILR_0Jg?`MmWl[dUM0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`i@mH@LQG>Cn55SGi4C?53
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/ece551/somani/Ex17
+w1761767198
+8D:/ece551/somani/Ex17/balance_cntrl.sv
+FD:/ece551/somani/Ex17/balance_cntrl.sv
+!i122 17
+L0 1 25
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1761768241.000000
+!s107 D:/ece551/somani/Ex17/balance_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex17/balance_cntrl.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vbalance_cntrl_chk_tb
+R0
+!s110 1761769018
+!i10b 1
+!s100 Q<`bOj0G@X5_FH1OE<NkY0
+R1
+IW^mlY9[B:=ffK`P@oL9UO3
+R2
+S1
+R3
+w1761768734
+8D:/ece551/somani/Ex17/balance_cntrl_chk_tb.sv
+FD:/ece551/somani/Ex17/balance_cntrl_chk_tb.sv
+!i122 21
+L0 1 88
+R4
+r1
+!s85 0
+31
+!s108 1761769018.000000
+!s107 D:/ece551/somani/Ex17/balance_cntrl_chk_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex17/balance_cntrl_chk_tb.sv|
+!i113 1
+R5
+R6
+vPID
+R0
+!s110 1761768263
+!i10b 1
+!s100 k?WR3NU?WP]nDA7oLaUje0
+R1
+IN;H=_Z>YKS5mc>Q7f<c`L0
+R2
+S1
+R3
+w1760726139
+8D:/ece551/somani/Ex17/PID.sv
+FD:/ece551/somani/Ex17/PID.sv
+!i122 20
+L0 1 117
+R4
+r1
+!s85 0
+31
+!s108 1761768263.000000
+!s107 D:/ece551/somani/Ex17/PID.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex17/PID.sv|
+!i113 1
+R5
+R6
+n@p@i@d
+vSegwayMath
+R0
+!s110 1761773147
+!i10b 1
+!s100 aHgD]mj5Q<ISObTU:B7B@1
+R1
+Ii137^SLX^DCJcB`46hA0N2
+R2
+S1
+R3
+w1761773139
+8D:/ece551/somani/Ex17/SegwayMath.sv
+FD:/ece551/somani/Ex17/SegwayMath.sv
+!i122 32
+L0 1 86
+R4
+r1
+!s85 0
+31
+!s108 1761773147.000000
+!s107 D:/ece551/somani/Ex17/SegwayMath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex17/SegwayMath.sv|
+!i113 1
+R5
+R6
+n@segway@math

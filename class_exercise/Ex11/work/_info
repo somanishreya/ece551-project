@@ -1,0 +1,214 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex08_b
+vdff
+!s110 1759342352
+!i10b 1
+!s100 dM>GE3J[R01dhgBNF8kn43
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?FBYHU4<O<:04;=^k^OSC0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ece551/somani/Ex11
+w1757477319
+8D:/ece551/somani/Ex11/dff.v
+FD:/ece551/somani/Ex11/dff.v
+!i122 6
+L0 1 18
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1759342352.000000
+!s107 D:/ece551/somani/Ex11/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ece551/somani/Ex11/dff.v|
+!i113 1
+o-work work
+Z5 tCvgOpt 0
+vPB_release
+Z6 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z7 !s110 1759342353
+!i10b 1
+!s100 UkmkX989lb9UWUVEo`9^;3
+R0
+I1mEWLWb1FXAXdBX4cl]S;0
+R1
+S1
+R2
+w1759342312
+8D:/ece551/somani/Ex11/PB_release.sv
+FD:/ece551/somani/Ex11/PB_release.sv
+!i122 7
+L0 1 40
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ece551/somani/Ex11/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex11/PB_release.sv|
+!i113 1
+Z8 o-work work -sv
+R5
+n@p@b_release
+vPWM
+R6
+!s110 1759342230
+!i10b 1
+!s100 ]AgIM=IDUFBAR:9nJn<]M0
+R0
+I_DdXg;4bb_[E1^oJg9dA63
+R1
+S1
+R2
+w1759170083
+Z9 8D:/ece551/somani/Ex11/PWM11.sv
+Z10 FD:/ece551/somani/Ex11/PWM11.sv
+!i122 2
+Z11 L0 16 59
+R3
+r1
+!s85 0
+31
+!s108 1759342230.000000
+Z12 !s107 D:/ece551/somani/Ex11/PWM11.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex11/PWM11.sv|
+!i113 1
+R8
+R5
+n@p@w@m
+vPWM11
+R6
+R7
+!i10b 1
+!s100 KhgTG@nYmY>O]MN:mNXUZ1
+R0
+I6[7Wok1i[_;DYm`AKHfn72
+R1
+S1
+R2
+Z14 w1759342342
+R9
+R10
+!i122 8
+R11
+R3
+r1
+!s85 0
+31
+Z15 !s108 1759342353.000000
+R12
+R13
+!i113 1
+R8
+R5
+n@p@w@m11
+vPWM11_test
+R6
+R7
+!i10b 1
+!s100 aAMk^B^>DhdXE9A63NjJi1
+R0
+I_K>ZWNF;P[hRGXNA8dALf3
+R1
+S1
+R2
+w1759340130
+8D:\ece551\somani\Ex11\PWM11_test.sv
+FD:\ece551\somani\Ex11\PWM11_test.sv
+!i122 9
+L0 1 74
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:\ece551\somani\Ex11\PWM11_test.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:\ece551\somani\Ex11\PWM11_test.sv|
+!i113 1
+R8
+R5
+n@p@w@m11_test
+vrst_synch
+R6
+R7
+!i10b 1
+!s100 <foD9_omJD[FKfMZllD;F2
+R0
+I=f8^1nV?6UL;8TX1i4gbN3
+R1
+S1
+R2
+w1759342301
+8D:/ece551/somani/Ex11/rst_synch.sv
+FD:/ece551/somani/Ex11/rst_synch.sv
+!i122 10
+Z16 L0 1 19
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/ece551/somani/Ex11/rst_synch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex11/rst_synch.sv|
+!i113 1
+R8
+R5
+vSR_FF
+R6
+R7
+!i10b 1
+!s100 VA8:ZQQCGM;Vm;Q2[jT0L3
+R0
+IFiCCTIPA4n6SgT:PBlBJg3
+R1
+S1
+R2
+R14
+R9
+R10
+!i122 8
+L0 1 13
+R3
+r1
+!s85 0
+31
+R15
+R12
+R13
+!i113 1
+R8
+R5
+n@s@r_@f@f
+vup_dwn_cnt4
+R6
+R7
+!i10b 1
+!s100 ;h2dk0hSNdF7VPS0[?]]H1
+R0
+I:fKc8RY2CllcK0o@VeM3z2
+R1
+S1
+R2
+w1759342322
+8D:/ece551/somani/Ex11/up_dwn_cnt4.sv
+FD:/ece551/somani/Ex11/up_dwn_cnt4.sv
+!i122 11
+R16
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/ece551/somani/Ex11/up_dwn_cnt4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex11/up_dwn_cnt4.sv|
+!i113 1
+R8
+R5

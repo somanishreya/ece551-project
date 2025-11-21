@@ -1,0 +1,115 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAuth_blk
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1762214424
+!i10b 1
+!s100 >HmZ[[f3E=1DZm_=k2Af72
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFN`e^NCG]:kl2`HTBfZbG0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/ece551/somani/HW4
+w1762214322
+8D:/ece551/somani/HW4/Auth_blk.sv
+FD:/ece551/somani/HW4/Auth_blk.sv
+!i122 15
+L0 1 73
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1762214424.000000
+!s107 D:/ece551/somani/HW4/Auth_blk.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/HW4/Auth_blk.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+n@auth_blk
+vAuth_blk_tb
+R0
+!s110 1762215144
+!i10b 1
+!s100 GYLXM5i_kf0_F0^V4nO4z3
+R2
+ILzCc678Iz0blJmFVC1zUW3
+R3
+S1
+R4
+w1762215134
+8D:/ece551/somani/HW4/Auth_blk_tb.sv
+FD:/ece551/somani/HW4/Auth_blk_tb.sv
+!i122 24
+L0 1 249
+R5
+r1
+!s85 0
+31
+!s108 1762215144.000000
+!s107 D:/ece551/somani/HW4/Auth_blk_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/HW4/Auth_blk_tb.sv|
+!i113 1
+R7
+R8
+n@auth_blk_tb
+vUART_rx
+R0
+R1
+!i10b 1
+!s100 iLXiZld8ncb_f`3BTIenf3
+R2
+IHV=gi>En3MoQRfP<<2Cf`2
+R3
+S1
+R4
+w1760377308
+8D:/ece551/somani/HW4/UART_rx.sv
+FD:/ece551/somani/HW4/UART_rx.sv
+!i122 17
+L0 1 150
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ece551/somani/HW4/UART_rx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/HW4/UART_rx.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_rx
+vUART_tx
+R0
+!s110 1762214425
+!i10b 1
+!s100 1nEMzLAVGGFfWl[Vji<zF0
+R2
+I^AmQPRgPCbY5AA>H0OJUY3
+R3
+S1
+R4
+w1760125678
+8D:/ece551/somani/HW4/UART_tx.sv
+FD:/ece551/somani/HW4/UART_tx.sv
+!i122 18
+L0 1 119
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/ece551/somani/HW4/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/HW4/UART_tx.sv|
+!i113 1
+R7
+R8
+n@u@a@r@t_tx

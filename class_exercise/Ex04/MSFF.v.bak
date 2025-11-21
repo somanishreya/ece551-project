@@ -1,0 +1,27 @@
+module MSFF (
+    input wire d,           // Input signal
+    input wire clk,      // Tri-state control
+    output wire q           // Output (inverted or high-Z)
+);
+
+wire clk_n, md, mq, sd, md_not;
+
+not inv(clk_n,clk);
+
+
+// Tri-state buffer for master
+notif1 #(1) tri1(md, d, clk_n);
+
+not inv1(mq,md);
+//weak not for master 
+not (weak0, weak1) inv2(md,mq);
+
+
+// Tri-state buffer for slave
+notif1 #(1) tri2(sd, mq, clk);
+
+not inv3(q,sd);
+//weak not for slave 
+not (weak0, weak1) inv4(sd,q);
+
+endmodule

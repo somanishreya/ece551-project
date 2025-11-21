@@ -1,0 +1,15 @@
+D:/ece551/somani/Ex08_a/SegwayMath_tb.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex08_a/SegwayMath_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SegwayMath_tb
+
+Top level modules:
+	SegwayMath_tb
+
+} {} {}} D:/ece551/somani/Ex08_a/SegwayMath.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex08_a/SegwayMath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SegwayMath
+
+Top level modules:
+	SegwayMath
+
+} {} {}}

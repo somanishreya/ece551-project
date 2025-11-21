@@ -1,0 +1,22 @@
+D:/ece551/somani/Ex03/dff.v {1 {vlog -work work -stats=none D:/ece551/somani/Ex03/dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} D:/ece551/somani/Ex03/synch_detect.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex03/synch_detect.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module synch_detect
+
+Top level modules:
+	synch_detect
+
+} {} {}} D:/ece551/somani/Ex03/synch_detect_tb.sv {1 {vlog -work work -sv -stats=none D:/ece551/somani/Ex03/synch_detect_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module synch_detect_tb
+
+Top level modules:
+	synch_detect_tb
+
+} {} {}}

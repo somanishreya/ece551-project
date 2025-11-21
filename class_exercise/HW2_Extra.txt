@@ -1,0 +1,15 @@
+HW2
+
+6.
+
+a)Does the gyro output angular position, or angular rate?
+
+The gyro outputs angular rate, not angular position. It measures how fast the device is rotating around each axis. Angular position can be calculated using angular rate by integrating the rate over time, but it will also introduce some error accumulation.
+
+b) If we wanted an output data rate around 300 readings per second does it support that?
+
+Yes, gyro supports >300 Hz output data rate. The LSM6DS3H gyro supports ODRs up to 6.66 kHz. So 300 Hz (300 samples/sec) is within limit.
+
+c) How would we synchronize our Verilog with it…how would we know it has a new set of measurements ready for us?
+
+We have to sync using the gyro data-ready interrupt. The sensor toggles an interrupt pin (INT1 or INT2) when new data is available. In Verilog, we have to monitor that pin and trigger a read when it goes high. That gives us precise timing — no continuous or guesswork reading. Depending on how we want to handle edge detection, the reading can also be configured to latch or pulse.

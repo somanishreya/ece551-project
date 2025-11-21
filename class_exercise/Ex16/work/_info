@@ -1,0 +1,89 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ece551/somani/Ex15
+vSPI_iNEMO1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1761331433
+!i10b 1
+!s100 bN2H=1oVS2bKa>6;m`VgA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5TOhFLWlIMVPFDaddFNHT0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/ece551/somani/Ex16
+w1761154547
+8D:/ece551/somani/Ex16/SPI_iNEMO1.sv
+FD:/ece551/somani/Ex16/SPI_iNEMO1.sv
+!i122 15
+L0 1 217
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1761331433.000000
+!s107 D:/ece551/somani/Ex16/SPI_iNEMO1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex16/SPI_iNEMO1.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@s@p@i_i@n@e@m@o1
+vSPI_mnrch
+R0
+!s110 1761331856
+!i10b 1
+!s100 bkiRR?AF1eWA29LiS11HC1
+R1
+Ie_D>Ao3gMdANX[TN]XWNb2
+R2
+S1
+R3
+w1761331839
+8D:/ece551/somani/Ex16/SPI_mnrch.sv
+FD:/ece551/somani/Ex16/SPI_mnrch.sv
+!i122 17
+L0 1 163
+R4
+r1
+!s85 0
+31
+!s108 1761331856.000000
+!s107 D:/ece551/somani/Ex16/SPI_mnrch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/ece551/somani/Ex16/SPI_mnrch.sv|
+!i113 1
+R5
+R6
+n@s@p@i_mnrch
+vSPI_mnrch_tb
+R0
+!s110 1762225411
+!i10b 1
+!s100 SH_]XSIY[BfBdEBl<Jl530
+R1
+IM?d;I^PN;^^o<X1PM88?`2
+R2
+S1
+R3
+w1762225383
+8D:/ece551/somani/Ex16/SPI_mnrch_tb.sv
+FD:/ece551/somani/Ex16/SPI_mnrch_tb.sv
+!i122 34
+L0 1 111
+R4
+r1
+!s85 0
+31
+!s108 1762225411.000000
+!s107 D:/ece551/somani/Ex16/SPI_mnrch_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|D:/ece551/somani/Ex16/SPI_mnrch_tb.sv|
+!i113 1
+R5
+R6
+n@s@p@i_mnrch_tb

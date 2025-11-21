@@ -1,0 +1,44 @@
+module arith_tb();	
+
+reg [7:0] A,B;			
+reg SUB;				
+wire [7:0] SUM;	
+wire OV;	
+
+/////// Instantiate DUT /////////
+arith iDUT(.A(A),.B(B),.SUB(SUB),.SUM(SUM),.OV(OV));
+
+always begin
+	//Test1: Two positive add, without overflow
+	A=8'd10; B=8'd10; SUB=0;
+  	#5
+	if (SUM!==8'd20 && OV!=1'b0) begin
+    		$display("ERROR: Check the sum & overflow");
+		$stop();
+	end
+  	$display("Two positive add passed without overflow");
+
+	//Test2: Two positive add, with overflow
+	#5
+	A=8'd64; B=8'd64; SUB=0;
+  	#5
+	if (SUM!==8'd128 && OV!=1'b1) begin
+    		$display("ERROR: Check the sum & overflow");
+		$stop();
+	end
+  	$display("Two positive add passed with overflow");
+
+
+
+
+
+
+
+
+
+  
+	//$display("YAHOO!! all tests passed!\n");
+  	$stop();  
+end
+ 
+endmodule

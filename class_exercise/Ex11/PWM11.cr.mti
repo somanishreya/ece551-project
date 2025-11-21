@@ -1,0 +1,15 @@
+D:/ece551/somani/Ex11/dff.v {1 {vlog -work work -stats=none D:/ece551/somani/Ex11/dff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} D:/ece551/somani/Ex11/PWM11_test.sv {1 {vlog -work work -sv -stats=none {D:\ece551\somani\Ex11\PWM11_test.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM11_test
+
+Top level modules:
+	PWM11_test
+
+} {} {}}
