@@ -5,7 +5,6 @@ Group Name: SyntheSizers
 <br>
 <br>
 Teammates Name:
-<br>
 Abhinarayani Velu Radhakrishnan
 <br>
 Aditi Kapil Chintawar
